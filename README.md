@@ -2,13 +2,13 @@
 
 # AND101 Project 1 - Hello, Squirrel!
 
-Submitted by: **Your Name Here**
+Submitted by: **Mario Oliva**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
+**Hello Squirrel** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.
 
 If I had to describe this project in three (3) emojis, they would be: **👋🐿🧑‍💻**
 
@@ -33,7 +33,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VhMTJkMTJiNjE3YTIzN2RhODlhZDEwYjQwNjBlM2RjOGM4OTBjZCZjdD1n/fLQXU38viByx25mf34/giphy.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **giphy.com**.
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
