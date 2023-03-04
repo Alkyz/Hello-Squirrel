@@ -31,7 +31,7 @@ The following STRETCH features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgflip.com/gif/7d8ng1' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VhMTJkMTJiNjE3YTIzN2RhODlhZDEwYjQwNjBlM2RjOGM4OTBjZCZjdD1n/fLQXU38viByx25mf34/giphy.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
