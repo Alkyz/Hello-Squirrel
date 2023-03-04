@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hello Squirrel</string>
+
+    <string name="first_name">Mario</string>
+    <string name="last_name">Oliva</string>
+    <string name="full_name">%s %s</string>
+
+    <string name="profile_bio_text">"I am an aspiring software developer. I know how to program backend services, databases, and APIs. Right now, I am interested in mobile app development. "</string>
+
+    <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
+    <string name="profile_hobby_first_text">🥇 Traveling to new cities</string>
+    <string name="profile_hobby_second_text">"🥈 Cooking all sorts of cuisines "</string>
+    <string name="profile_hobby_third_text">🥉 I love to play Pokemon games</string>
+    I am an aspiring software developer. I have working experience with backend services, databases, and APIs. I am also into creating fun mobile applications!
+</resources>
